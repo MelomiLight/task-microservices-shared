@@ -1,4 +1,4 @@
-module github.com/MelomiLight/task-microservices-shared
+module github.com/MelomiLight/task-microservices-shared/v2
 
 go 1.24.6
 
